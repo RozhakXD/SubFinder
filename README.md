@@ -81,6 +81,7 @@ Jika Anda menyukai proyek ini dan ingin mendukung pengembang, Anda dapat memberi
 
 - [Trakteer](https://trakteer.id/rozhak_official/tip)
 - [PayPal](https://paypal.me/rozhak9)
+
 Setiap dukungan Anda sangat berarti dan membantu pengembangan lebih lanjut dari SubFinder!
 
 ## Tangkapan Layar
